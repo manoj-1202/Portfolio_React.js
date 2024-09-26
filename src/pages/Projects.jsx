@@ -12,7 +12,7 @@ const projects = [
   {
     id: 2,
     title: 'Weather Monitor',
-    image: 'images/weather.png',
+    image: 'images/weatheR.png',
     sourceCode: 'https://github.com/manoj-1202/Weather_Monitor_js',
     liveDemo: 'https://manoj-1202.github.io/Weather_Monitor_js/',
   },
